@@ -1,4 +1,4 @@
-# MobileRobotNavigation with Artificial Intelligence techniques
+# Mobile Robot Navigation with Artificial Intelligence techniques
 In this repository there are several assignments of the course Mobile Robot Navigation with Artificial Intelligence techniques of the University of Klagenfurt.
 
 ## Image Classification
