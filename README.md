@@ -10,3 +10,8 @@ In the models folder, you will find the notebooks in which the fine tuning of fo
 In this assignment, the dataset proposed for Image Classification was annotated, containing four classes of images (planes, drones, helicopters, birds).
 
 In the models folder, you will find the notebooks in which the fine tuning of three pre-trained models (YOLOv8 and two versions of Faster R-CNN) was done on the proposed dataset and the subsequent testing.
+
+## Time Series Prediction
+In this assignment, two datasets were used with LSTM.
+
+The first one is the Monthly Champagne sales dataset; the second one is the Yearly Water Usage. The goal was to predict the future values of the sequence. 
